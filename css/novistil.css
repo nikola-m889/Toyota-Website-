@@ -1,0 +1,15 @@
+.navbar-default .navbar-nav > .active > a:hover {
+    color: #5e5e5e;
+    background-color: #red;
+}
+/*menja boju na pozadini */
+.navbar-default.navbar-nav> li > a:focus, .navbar-default-nav> li> a:hover {
+	color #333;
+	background-color: red;
+}
+
+.navbar-default .navbar-nav> .active > a, .navbar-nav> .ative > a:focus, .navbar-default {
+    color #555;
+    background-color: #bfbfbf;
+}
+/*menja boju na aktivnom delu navigacije */
